@@ -1,13 +1,13 @@
 ```markdown
  📊 Global Superstore Sales Analysis Dashboard | Power BI
 
-An interactive **Power BI Business Intelligence Dashboard** built using the **Global Superstore** dataset to analyze sales performance, customer behavior, product profitability, geographical trends, and shipping efficiency. The dashboard enables businesses to make **data-driven decisions** through interactive visualizations and KPIs.
+An interactive Power BI Business Intelligence Dashboard built using the Global Superstore dataset to analyze sales performance, customer behavior, product profitability, geographical trends, and shipping efficiency. The dashboard enables businesses to make data-driven decisions through interactive visualizations and KPIs.
 
 
 
  📌 Project Overview
 
-This project consists of **5 interactive report pages**, each focusing on a different business domain. It transforms raw transactional data into meaningful insights using **Power Query, Data Modeling, and DAX**.
+This project consists of 5 interactive report pages, each focusing on a different business domain. It transforms raw transactional data into meaningful insights using Power Query, Data Modeling, and DAX.
 
 
 
@@ -16,10 +16,10 @@ This project consists of **5 interactive report pages**, each focusing on a diff
  1. Executive Summary
 
 🎯 Key KPIs
-- 💰 **Total Sales**
-- 📈 **Total Profit**
-- 📦 **Total Orders**
-- 📊 **Profit Margin (%)**
+- 💰 Total Sales
+- 📈 Total Profit
+- 📦 Total Orders
+- 📊 Profit Margin (%)
 
 📌 Insights
 - 📅 Monthly Sales & Profit Trend
@@ -33,9 +33,9 @@ This project consists of **5 interactive report pages**, each focusing on a diff
  2. Product Performance Analysis
 
 🎯 Key KPIs
-- 📦 **Quantity Sold**
-- 🏷️ **Average Discount**
-- 💳 **Average Order Value (AOV)**
+- 📦 Quantity Sold
+- 🏷️ Average Discount
+- 💳 Average Order Value (AOV)
 
 📌 Insights
 - 🛒 Category Performance
@@ -49,9 +49,9 @@ This project consists of **5 interactive report pages**, each focusing on a diff
  3. Customer Analysis
 
 🎯 Key KPIs
-- 👤 **Total Customers**
-- 🔁 **Repeat Customers**
-- 💳 **Average Order Value (AOV)**
+- 👤 Total Customers
+- 🔁 Repeat Customers
+- 💳 Average Order Value (AOV)
 
 📌 Insights
 - 👨‍💼 Customer Segment Analysis
@@ -64,9 +64,9 @@ This project consists of **5 interactive report pages**, each focusing on a diff
  4. Market & Regional Analysis
 
  🎯 Key KPIs
-- 💰 **Total Sales**
-- 📦 **Total Orders**
-- 📈 **Total Profit**
+- 💰 Total Sales
+- 📦 Total Orders
+- 📈 Total Profit
 
 📌 Insights
 - 🌎 Market-wise Performance
@@ -79,10 +79,10 @@ This project consists of **5 interactive report pages**, each focusing on a diff
  5. Shipping Performance Analysis
 
 🎯 Key KPIs
-- 🚛 **Total Shipping Cost**
-- 💲 **Average Shipping Cost**
-- ⏱️ **Average Delivery Time**
-- ⚠️ **Delayed Orders**
+- 🚛 Total Shipping Cost
+- 💲 Average Shipping Cost
+- ⏱️ Average Delivery Time
+- ⚠️ Delayed Orders
 
 📌 Insights
 - 🚚 Ship Mode Performance
